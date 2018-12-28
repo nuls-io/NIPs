@@ -89,9 +89,9 @@ Other exceptional statuses are:
 
 ## What belongs in a successful NIP? 
 
-Each NIP should have the following parts: (those marked with "*" are optional):
+Each NIP should have the following parts:
 
-- **Preamble:**RFC 822 style headers containing meta-data about the NIP, including the NIP number, a short descriptive title (limited to a maximum of 44 characters), the names, and optionally the contact info for each author, etc. See NIP Header Preamble for details.
+- **Preamble:** RFC 822 style headers containing meta-data about the NIP, including the NIP number, a short descriptive title (limited to a maximum of 44 characters), the names, and optionally the contact info for each author, etc. See NIP Header Preamble for details.
 - **Summary:** The NIP author needs to provide a simple and understandable summary of the NIP for the general public. If you can't explain it in a simple way, it means that you don't fully understand it.
 - **Abstract:**  A short (~200 word) description of the technical issue being addressed.
 - **Motivation:** The motivation is critical for NIPs that want to change the NULS protocol. It should clearly explain why the existing protocol specification is inadequate to address the problem that the NIP solves. NIP submissions without sufficient motivation may be rejected outright.
@@ -99,8 +99,8 @@ Each NIP should have the following parts: (those marked with "*" are optional):
 - **Rationale:** The rationale fleshes out the specification by describing what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work, e.g. how the feature is supported in other languages. The rationale should provide evidence of consensus within the community and discuss important objections or concerns raised during discussion.
 - **Backwards Compatibility:** All NIPs that introduce backwards incompatibilities must include a section describing these incompatibilities and their severity. The NIP must explain how the author proposes to deal with these incompatibilities. NIP submissions without a sufficient backwards compatibility treatise may be rejected outright.
 - **Test Cases:** For NIPs that affect the consensus mechanism, test cases for their implementation must be provided.
-- **Reference Implementation:**The reference implementation must be completed before any NIP is given status "Final", but it need not be completed before the NIP is accepted.
-- **History:**History records show the whole process of the NIP from being proposed to the Final state, which can be displayed as additional links.
+- **Reference Implementation:** The reference implementation must be completed before any NIP is given status "Final", but it need not be completed before the NIP is accepted.
+- **History:** History records show the whole process of the NIP from being proposed to the Final state, which can be displayed as additional links.
 
 
 ## NIP Formats and Templates
@@ -165,11 +165,6 @@ Many NIPs are written and maintained by developers with write access to the NULS
 This document was derived heavily from Bitcoin's [Bitcoin's BIP-0001](https://github.com/bitcoin/bips), written by Amir Taake, and the text he wrote was mainly from [Python's PEP-0001](https://www.python.org/dev/peps/). According to this situation, NIP makes some modifications based on their documents, such as adding the Council in the NIP process, modifying NIP types, etc. Please direct all comments to the NULS NIP editors.
 
 
-
-<head> 
-<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
-<script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
-</head> 
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
 

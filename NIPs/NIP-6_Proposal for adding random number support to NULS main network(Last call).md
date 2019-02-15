@@ -38,7 +38,7 @@ In order to solve the security and fairness problems of distributed random numbe
 | Length | Field        | Data Type | Remark                                                       |
 | ------ | ------------ | --------- | ------------------------------------------------------------ |
 | 32     | seed         | byte[32]  | Random seeds provided by this block                          |
-| 8      | nextSeedHash | byte[8]   | The next block will provide the intercepted values of SHA3-256 results of random seeds for validation. |
+| 8      | nextSeedHash | byte[8]   | The next block will provide the intercepted values of SHA256-tiwce results of random seeds for validation. |
 
 [^Note]: nextSeedHash：sha3-256(sha3-256(nextSeed)) ,The last eight bytes of the result
 
@@ -138,7 +138,7 @@ For this risk point, it is suggested that when the future block height is specif
 
   Because a new Native interface is added, when an intelligent contract calls the interface, there will be an exception in the historical version, which will lead to network bifurcation.
 
-  This modification can be achieved by protocol upgrade. After 90% updates of all out-of-block nodes, 10,000 blocks are delayed for the new protocol to come into effect, and new versions are vigorously promoted in the community to guide users to upgrade their wallets.
+  This modification can be achieved by protocol upgrade. After 90% updates of all out-of-block nodes, 30,000 blocks are delayed for the new protocol to come into effect, and new versions are vigorously promoted in the community to guide users to upgrade their wallets.
 
 ## Test Cases
 

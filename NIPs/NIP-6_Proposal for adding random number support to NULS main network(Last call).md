@@ -3,7 +3,7 @@
  Title: Proposal for adding random number support to NULS main network
  Author: Niels Wang <niels@nuls.io>
  Discussions-To: https://nuls.community/d/331-proposal-for-protocol-upgrading-of-nuls-main-network-supporting-random-numbers
- Status: Last call
+ Status: Accepted
  Type: Core
  Created: 2019/01/21
 ```

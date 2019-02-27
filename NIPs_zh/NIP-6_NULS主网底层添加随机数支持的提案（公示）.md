@@ -3,7 +3,7 @@
  标题: NULS主网底层添加随机数支持的提案
  作者: Niels Wang <niels@nuls.io>
  讨论渠道: https://nuls.community/d/330-nuls
- 状态: 公示
+ 状态: 接受
  类型: 核心
  创建日期: 2019/01/21
 ```

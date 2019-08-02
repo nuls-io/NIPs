@@ -145,7 +145,7 @@ At this time, the full-time minimum wage is about 1030 NULS, and the maximum is 
 
 | | Full-time | Full-time | Full-time | Full-time | Part-time | Part-time | Part-time | Part-time |
 | ---- | ------ | -------- | ------ | ----------------- | ------ | -------- | ------ | ------------- |
-| level | deposit | commission| stake  | specification | commission| commission | stake | specification |
+| level | deposit | commission| stake  | specification | deposit| commission | stake | specification |
 | level 1 | 2w | 40 | 20w | 10w staking reward | 2w | 15 | 20w | 5w staking reward |
 | level | 2w | 65 | 20w | 15w staking reward | 2w | 28 | 20w |6,000 entrusted staking reward |
 | level 3 | 2w | 90 | 20w | 20w staking reward | 2w | 40 | 20w | 10w staking reward |

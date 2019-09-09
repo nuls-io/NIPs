@@ -12,7 +12,7 @@
 
 ## 1] Preamble
 
-Currently NULS does not have a fixed maximum limit of coins as 5000000 are created each year specifically to reward agents and stakers. This is not sustainable long-term because it can be proved that if max supply tends to infinity price tends to zero, this is not  a matter of opinion but a mathematical certainty, inflation can grow for several years as it is assumed that new people will enter the market and will continue sustaining current and higher price levels, that’s the case of Ethereum for example, but even then, the number of persons and the amount of money is finite so at some point the sell pressure will undoubtedly be unsustainable and price will start crunching.
+Currently NULS does not have a fixed maximum limit of coins as 5000000 are created each year specifically to reward agents and stakers. This is not sustainable long-term because it can be proved that if max supply tends to infinity price tends to zero, this is not  a matter of opinion but a mathematical certainty, inflation can grow for several years as it is assumed that new people will enter the market and will continue sustaining current and higher price levels, thatï¿½s the case of Ethereum for example, but even then, the number of persons and the amount of money is finite so at some point the sell pressure will undoubtedly be unsustainable and price will start crunching.
 
 #### The proposal was accepted after 2 weeks of community voting.
 
@@ -30,22 +30,22 @@ It is important to provide a very slow and smooth reward decrease function until
 Having a max supply tends to increase buying pressure long term due economics of scarcity, the more the circulating supply approaches the theoretical limit then the greater probability that buying pressure will increase, this property rewards early partners and long-term investors more than late comers and traders, as it should be, because early investors take more risk than those that come when the project is mature.
 
 #### 3.3] Increase probability to break strong resistance price levels
-Let’s put an example. Assume price in the bull market increases to 30 USD per NULS, it is reasonable to think that agents and stakers dump at least 40% of their gains (average) ; it is also easy to calculate the daily reward amount: R = 5 000 000 / 365 = 13 698, 40% of that is 5479 Nuls being dumped per day (average) which is equivalent to 164 370 USD per day (average) just to sustain the 30 $us level! Decreasing rewards smoothly implies that the amount of USD required to sustain 30$us will be lower next market cycle .
+Letï¿½s put an example. Assume price in the bull market increases to 30 USD per NULS, it is reasonable to think that agents and stakers dump at least 40% of their gains (average) ; it is also easy to calculate the daily reward amount: R = 5 000 000 / 365 = 13 698, 40% of that is 5479 Nuls being dumped per day (average) which is equivalent to 164 370 USD per day (average) just to sustain the 30 $us level! Decreasing rewards smoothly implies that the amount of USD required to sustain 30$us will be lower next market cycle .
 
 ## 4] Specification
 
-#### 4.1] Starting at block 6284000 (on July 2020 approximately), rewards should be decreased exactly 0.41%.
+#### 4.1] Starting on 12th July 2020 , rewards should be decreased exactly 0.4%.
 
-#### 4.2] After step 1] is completed, the step is repeated every 261833 blocks, which implies decreasing rewards another 0.41% per month on average.
+#### 4.2] After step 1] is completed, the step is repeated every 30 days, which implies decreasing rewards another 0.4% per month on average.
 
 #### 4.3] Repeat the process until the 210 000 000 NULS goal is met. 
 
 ## 5] Rationale
 
-The method to be implemented starts decreasing rewards in July 2020, two years after main net was activated, and have a Max Cap of exactly 210 000 000 NULS that will be reached after 84 years from activation.
+The method to be implemented starts decreasing rewards on 12th July 2020, two years after main net was activated, and have a Max Cap of exactly 210 000 000 NULS that will be reached after 78 years from activation.
 NULS price will need to rise less than 5% per year to offer the same value proposition to agents and stakers.
 
-It will need 14 years for the rewards to be halved, it’s easy to assume that we will more than duplicate the price and amount of investors in such long timeframe!
+It will need 14 years for the rewards to be halved, itï¿½s easy to assume that we will more than duplicate the price and amount of investors in such long timeframe!
 
 After analyzing many  alternatives on how to reach the max cap, this, in my opinion,  is by far the best method for several reasons:
 

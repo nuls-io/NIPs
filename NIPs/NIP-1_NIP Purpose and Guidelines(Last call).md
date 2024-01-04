@@ -45,11 +45,11 @@ There are six types of NIP:
 
   Manage and edit NIPs.
 
-- NULS Council
+- NULS Councilors
 
-  The NIPs, about to “Final” or “Accepted”, can be rejected by the final decision of the Council via internal voting.
+  The NIPs, about to “Final” or “Accepted”, can be rejected by the final decision of the Councilors via internal voting.
 
-- NULS Core Developers
+- NULS Technology Community [NTC] Developers
 
   They are responsible for the audit and code implementation of the Core, Module, NRC Standards and Interface NIPs.
 
@@ -71,7 +71,7 @@ Each change to the NIP status should be submitted by the NIP author as a pull re
 - Updates to drafts may also be submitted by the author as pull requests before it can be considered mature enough and ready for the next status.
   - <span style="font-size: 18px; color: Dodgerblue;"><i class="fas fa-check-circle"></i></span>  **Last call**: Once approved, the NIP editors will change the NIP status from Draft to last call and set the end date for the last call, usually 15 days.
   - <span style="font-size: 18px; color: Tomato;"><i class="fas fa-times-circle"></i></span>  **Last call**: Once the NIP has been published, it will be re-assigned to Draft status when necessary revisions are made on the NIP. We hope that a NIP will enter last call status only once to avoid unnecessary controversy in the community.
-- The NIP in last call status will be pinned at https://nuls.community/
+- The NIP in last call status will be pinned at https://forum.nuls.io/
   - <span style="font-size: 18px; color: Dodgerblue;"><i class="fas fa-check-circle"></i></span>  **Accepted (involved in Core, Module, NRC Standards and Interface NIPs only):** If there are no major revisions or open technical issues, the status of the NIP through the last call period will be changed to “Accepted” by the NIP editors.
   - <span style="font-size: 18px; color: Dodgerblue;"><i class="fas fa-check-circle"></i></span>  **Final (involved in Informational and Process NIPs only):** If there are no major revisions or open technical issues, the status of the NIP through the last call period will be changed to “Final” by the NIP editors.
   - <span style="font-size: 18px; color: Tomato;"><i class="fas fa-times-circle"></i></span>  **Last call:** The NIP will be re-assigned to Draft status if there are material changes or technical issues raised by the community cannot be solved during the last call period. In addition, if the Council has different views on the NIP, a vote can be initiated within the Council members. If more than 70% of the Council members reject the NIP (giving reasons), the NIP will be re-assigned to “Draft” status or directly “Rejected” according to actual reasons.
@@ -137,8 +137,8 @@ If you are interested in assuming ownership of a NIP, send a message asking to t
 The current NIP editors are:
 
 ```
-Niels <Niels@nuls.io>
-Pen <Pen@nuls.io>
+support <support@nuls.io>
+contact <contact@nuls.io>
 ```
 
 

@@ -2,35 +2,25 @@
 
 ```
   NIP: 4
-  Title: Ambassadors participate in the election rules
+  Title: Participation rules of Ambassadors election 
   Author: Reaper Ran <reaper@nuls.io>   Penny <penny@nuls.io>
-  Discussions-To: https://nuls.community/d/206-ambassadors-participate-in-the-election-rules-ncg-20181114
-  Status: Last call
+  Discussions-To: https://forum.nuls.io/t/nip-4-nuls-ambassadors-participate-in-the-election-rules/61
+  Status: Last Call
   Type: Process
-  Created: 2019-2-15
+  Created: 2019-5-31
 ```
 
 
 
 ## Abstract
 
-The NULS ambassadors conduct community-building and development in various parts of the world. NULS ambassadors are divided into countries or regions, and each is limited to the selection of one NULS ambassador. 
-
-The ambassador for each country will be chosen through competition by vote. Ambassadors will run quarterly.
-
-The incumbent ambassadors participating in the upcoming vote, shall provide a work report from previous month, as well as a plan for the next month. The work report should include expenses for that month.
-
-If the ambassador is a new candidate for the position, the will be required to first carry out some groundwork building their community for one month prior to the election, and then participate in the vote to become an ambassador. Participants will independently launch their candidacy on the community forum. 
-
-Based on the number of participants, only 1/3 will get elected (e.g., if there are 10 participants, four will be elected). Also, the number of ambassadors should not exceed 1/10 of the number of nodes that have reached consensus (e.g., if there are 83 consensus nodes, there will be less than nine ambassadors). 
-
-The voting will last for 15 days and once complete, the NULS Foundation will stake 200,000 NULS tokens into the ambassador’s node within a week’s time. The election for the ambassadors will be held in the last month of each quarter.
+The NULS ambassadors conduct community-building and development in various parts of the world. NULS ambassadors are divided into countries or regions, and each is limited to the selection of one NULS ambassador in principle . The ambassador for each country will be chosen through competition by vote. Ambassadors will run quarterly.
 
 
 
 ## Motivation
 
-During the period between September to November 2018, we have had 9 ambassadors who have actively worked within the NULS Community to attract more members and developers. Once smart contracts are launched on the NULS main-net, there will be a community voting tool. Appointments of the ambassadors should be decided by the community. During this time, community members have given many suggestions, so we have set up some new detailed campaigning rules for the ambassadors. This will be the first step toward community autonomy, which is an important goal for NULS. It requires many fundamental tools, as well as the support from everyone in the community.
+In order to promote the globalization of NULS project, adapt to different cultures and languages of different countries, better help the development and promotion of NULS project, and develop more NULS community members.
 
 
 
@@ -48,17 +38,7 @@ The following is a specification of the Ambassadors participate in the election 
 
 ## 1. Introduction of NULS Ambassadors
 
-The NULS ambassadors conduct community-building and development in various parts of the world. NULS ambassadors are divided into countries or regions, and each is limited to the selection of one NULS ambassador. 
-
-The ambassador for each country will be chosen through competition by vote. Ambassadors will run quarterly.
-
-The incumbent ambassadors participating in the upcoming vote, shall provide a work report from previous month, as well as a plan for the next month. The work report should include expenses for that month.
-
-If the ambassador is a new candidate for the position, the will be required to first carry out some groundwork building their community for one month prior to the election, and then participate in the vote to become an ambassador. Participants will independently launch their candidacy on the community forum. 
-
-Based on the number of participants, only 1/3 will get elected (e.g., if there are 10 participants, four will be elected). Also, the number of ambassadors should not exceed 1/10 of the number of nodes that have reached consensus (e.g., if there are 83 consensus nodes, there will be less than nine ambassadors). 
-
-The voting will last for 15 days and once complete, the NULS Foundation will stake 200,000 NULS tokens into the ambassador’s node within a week’s time. The election for the ambassadors will be held in the last month of each quarter.
+The NULS ambassadors conduct community-building and development in various parts of the world. NULS ambassadors are divided into countries or regions, and each is limited to the selection of one NULS ambassador. The ambassador for each country will be chosen through competition by vote. Ambassadors will run quarterly.
 
  
 
@@ -68,7 +48,7 @@ a. A candidate for the NULS ambassador is required to create a NULS node.
 
 b. Identify with the NULS concepts of values, understand the core knowledge of NULS and respect the members of the NULS community. The election cycle is quarterly and requires a full 3 month commitment. Consider this commitment before running for election. Ambassadors are expected to meet the full term of the quarterly commitment.
 
-c. The appointment of NULS ambassadors is implemented through community voting. Candidates are able to apply for the position of ambassador during the first two months of a quarter. At the beginning of the third month of a quarter, the NULS team will initiate the voting and 1/3 of the candidates with the most votes will become the new ambassadors. For example, if 10 persons apply, 4 candidates with the most votes will get elected. 
+c. The appointment of NULS ambassadors is implemented through the proposal. When the support rate of a candidate's proposal over 70%，the proposal will be adopted. When there are a number of ambassadors participated in campaign from the same country and apply for the same quarter’s ambassador, the winner will be the one with the highest support rate among them. 
 
 d. Ambassadors are required to publicly display their work report summary to the whole community at the end of each month, and show the development and growth of the community as well as their plan for the next month on the forum. The work report should include expenses for that month.
 
@@ -76,7 +56,7 @@ e. The dismissal of an ambassador: Any node can initiate a vote to dismiss an am
 
 f. Each NULS ambassador will be entrusted with 200,000 NULS tokens from the community fund of NULS Foundation. The elected NULS ambassadors can use 80% of the consensus rewards for community building, and the remaining 20% will returned to the community fund.
 
-g. 80% is the initial parameter fir ambassador nodes. With market fluctuations, this parameter can be modified. Any node can propose to change this parameter, with a voting period of 15 days. If the voting volume exceeds 5 million NULS tokens and the supporting votes are 70% or higher, the vote is considered passed, and the NULS Foundation will execute.
+g. The incumbent ambassadors shall provide a work report about community development of this month, as well as a plan for the next month. The work report should include expenses for that month.
 
 h. Half of all rewards of the ambassador's nodes are rewarded to ambassador(for he need to pay the node server cost and he shall get the rewards of 20,000 NULS he is staking on this nodes). And the other half must be used as development fund of ambassador for community development.
 
@@ -86,51 +66,42 @@ j.The ambassador is a community contributor. If you need to initiate other commu
 
 ## 3.  How to participate in the election
 
-a. Publish the work report for the previous month and the work plan for the next month:
+a. Publish the work plan of the next 3 months for public discussion for15 days（Ambassador of last quarter's continuation proposal for public discussion for 7 days ）
 
-Please post on the NULS forum: <https://community.nuls.world/t/elections>
+Please post on the NULS forum: https://nuls.community/t/community-fund
 
-b. The NULS team will gather information and initiate a vote on the forum. The vote will last for a 15-day period, so do your best to swing the votes and campaign!  
+b. Designate a Councilor to initiate a formal proposal and vote for you. The vote will last for a 15-day period, so do your best to swing the votes and campaign!  
 
 c. If you’re elected, create a node and name it (Country+Ambassador). Set the commission rate to 80%. The NULS Foundation will stake 200,000 NULS tokens in your node.
 
  
 
-Final Tribute to your efforts:
+**Final Tribute to your efforts:**
 
 • Congratulations on becoming a NULS ambassador! If you encounter any difficulty, the NULS team and the community will assist you.
 
-• Start your work of community-building and outreach!
+• Start your work of community-building and development!
 
 • Help NULS dock more DApps!
 
 • At the end of each month, be sure to submit your report for the current month of community development as well as next month's work plan on the forum.
 
- 
+
+
+Welcome to the *NULS* community! Let’s work together to create a brighter future for NULS!
 
  
 
-For all ambassador related discussions, please post on the NULS forum at  <https://community.nuls.world/t/elections>
+#### **If you can deliver more, we have these expectations of you:**
 
-Welcome to the NULS community! Let’s work together to create a brighter future for NULS!
+1. Host a local meet-up in your city/country, to meet with members of the NULS community and guide new members;
 
- 
-
-If you can deliver more, we have these expectations of you:
-
-*1. Host a local meet-up in your city/country, to meet with members of the NULS community and guide new members;*
-
-*2. Provide us with any materials we can use to assist in our marketing, such as photos, videos, meet-ups and articles on business cooperation;*
-
-*3. Share the story of NULS to the community;*
-
-*4. Translate the videos and other contents produced by the team to your native languages and share with people in your country/region;*
-
-*6. If possible, coordinate and communicate with the team and local exchanges to add NULS trading pairs;*
-
-*7. Try to get to any possible cryptocurrency conferences in your area, and attend on behalf of NULS;*
-
-*8. Help NULS with publicity and be committed to NULS press releases through your local media.*
+2. Provide us with any materials we can use to assist in our marketing, such as photos, videos, meet-ups and articles on business cooperation;
+3. Share the story of NULS to the community;
+4. Translate the videos and other contents produced by the team to your native languages and share with people in your country/region;
+5. If possible, coordinate and communicate with the team and local exchanges to add NULS trading pairs;
+6. Try to get to any possible cryptocurrency conferences in your area, and attend on behalf of NULS;
+7. Help NULS with publicity and be committed to NULS press releases through your local media.
 
 
 
@@ -194,30 +165,16 @@ NULS Ambassadors are the main conduit to engage the community and encourage comm
 
  
 
-**B.** **Community Activities**
+**B. Community Activities**
 
 1. Host local meet-ups in your city or country, meet with members of the NULS community, and guide beginners to learn more about NULS.
 2. Participate in any possible cryptocurrency gatherings in your area and represent NULS.
 3. Organize other local members (NULStars) to participate in or attend offline activities on behalf of NULS.
 4. Publicize and sponsor NULS in combination with events, conferences, hackathons, workshops, festivals, etc. by organizing in local forums or offline activities.
 5. Try to work with some businesses and guide them to support the use of cryptocurrency for deduction, payment or title.
-
  
 
-## **Get Started With Everything You Need Here**
-
-1. NULS Ambassador Board ([[Click to enter](https://devs.nuls.world/b/HKQeYfjDuGTuZbAQz/nuls-ambassador)]), you can add your own list to the board, add all the work you are currently doing and plan to do, onto the board to make it easier for other Ambassadors and members to see and support your work, or coordinate with your efforts.
-2. You can access and learn about the basic properties and content of NULS, such as the introduction of NULS, online exchanges, graphic content, partners, media channels, community groups, community websites, etc.
-3. If you use publicity materials, please note that the logos and letters of NULS are always capitalized, and please use the standard VIS, including PPT templates, hats, cultural shirts, stationery, announcements, logos, etc., which can also be found on the board.
-4. Please complete your email address, Telegram, LinkedIn and other accounts on the board so as to better communicate with each other, and join the NULS Ambassador group as soon as possible.
-5. You need to pay attention to the board and Telegram groups, so that your partners can contact you when they need you.
-6. If you need any help and support, or answers to any questions, you can raise them in groups. Team members will respond to your issues.
-7. If you want to learn more about the technology and help others understand it, you can follow [Github] (https://github.com/nuls-io) and [dev.nuls.io](https://dev .nuls.io/).
-8. Any suggestions, questions and ideas, and all work progress can be posted on the community forum [nuls.community](<https://nuls.community/>).
-
- 
-
-## **Recruit Volunteers to Organize Local Communities**
+## **Recruit Volunteers[NULStar] to Organize Local Communities**
 
 1. Recruit local NULS fans or volunteers to set up online communication groups, and guide them to promote the development of NULS.
 2. Organize some offline meet-ups.
@@ -226,7 +183,7 @@ NULS Ambassadors are the main conduit to engage the community and encourage comm
 
  
 
-## **Develop a Local NULS Ecology**
+## **Develop a Local NULS Ecosystem**
 
 1. Try to contact some local exchanges to list NULS for free. If some good exchanges require listing fees, you can introduce them to the NULS team.
 2. Dock blockchain projects to develop on NULS and create blockchains and DApps built on NULS.

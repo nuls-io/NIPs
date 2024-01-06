@@ -34,7 +34,7 @@ December 2018
 
 ## Abstract
 
-NULS community is an organization of a group of people who highly assent to NULS community culture and philosophy and have the same purpose and vision to work for the development of NULS community ecology. NULS community members include the NULS Foundation, Councilors, contributors, the open-source technology community - CODE CRAFT COUNCIL (NTC) and other all NULS Holders. 
+NULS community is an organization of a group of people who highly assent to NULS community culture and philosophy and have the same purpose and vision to work for the development of NULS community ecology. NULS community members include the NULS Foundation, Councilors, contributors, the open-source technology community - NULS technology community (NTC) and other all NULS Holders. 
 
 
 
@@ -120,7 +120,7 @@ The NULS Councilors, consisting of 11 members, is formed based on a popular vote
 
 * Permanent role. Put forward a proposal to create a role to give incentives or delegate. The community may vote for or against the assumption of the role.
 
-  (2) Put forward a proposal to modify system parameters. The voting period will last 30 days and if the approval rating reaches 90%, the proposal will be executed; otherwise it will be invalid.
+  (2) Put forward a proposal to modify system parameters. The voting period will last 15 days and if the approval rating reaches 80%, the proposal will be executed; otherwise it will be invalid.
 
 * Adjustment of lower node agency commission.
 

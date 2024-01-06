@@ -223,7 +223,7 @@ The process of joining NTC is:
 
 ### (I) Contributor for campaign
 
-Contributor role for campaign will be deemed a post in the community available for post-based recruitment and community supervision and management. The Ambassador is a contributor role for campaign and the current Ambassador campaign rules can be seen at **[nuls.community](https://nuls.community/)**. 
+Contributor role for campaign will be deemed a post in the community available for post-based recruitment and community supervision and management. The Ambassador is a contributor role for campaign and the current Ambassador campaign rules can be seen at **https://forum.nuls.io/**. 
 
 
 

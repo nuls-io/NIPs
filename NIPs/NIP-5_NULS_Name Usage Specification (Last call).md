@@ -31,7 +31,22 @@ I. the NULS name
 
 - Project Name: NULS (纳世链)
 - Coin Symbol: NULS (纳世)
-- Coin unit: 1 NULS (纳世) = 100000000 NA (纳)
+- Coin Unit: 1 NULS (纳世) = 100000000 NA (纳)
+- Products: 
+NULS Node Wallet 
+NULS Light Wallet
+ChainBox 
+NULS Virtual Machine[NVM]
+Nulstar——Microservice Manager
+NULS Cross-Chain
+Module Warehouse
+NULS Evolution
+NULS Explorer
+ENULS——EVM compatible blockchain created by the NULS community
+NULS POCM——The SCO platform allows NULS based projects to issue and distribute tokens safely to NULS holders using the POCM (Proof of Credit Mining) smart-contract blockchains
+NULS Stake——Stake DApp
+
+
 
 Note: All of the above are capital letters!
 

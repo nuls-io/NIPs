@@ -1,8 +1,8 @@
 ```
  NIP: 7
  Title: Proposal for setting a max supply limit to NULS
- Author: Berzeck <Darzeck@yandex.com>
- Discussions-To: https://nuls.community/d/531-ncg20190617-max-supply-deflation-method/13
+ Author: Berzeck <Berzeck@nulstar.com>
+ Discussions-To: [https://nuls.community/d/531-ncg20190617-max-supply-deflation-method/13](https://forum.nuls.io/t/nip-7-proposal-for-setting-a-max-supply-limit-to-nuls/67)
  Status: Accepted
  Type: Core
  Created: 2019-06-17

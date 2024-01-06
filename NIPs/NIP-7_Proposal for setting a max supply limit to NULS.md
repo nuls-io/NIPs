@@ -6,8 +6,7 @@
  Status: Accepted
  Type: Core
  Created: 2019-06-17
- 
- 
+
 ```
 
 ## 1] Preamble

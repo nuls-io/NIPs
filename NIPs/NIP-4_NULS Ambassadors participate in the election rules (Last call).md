@@ -52,7 +52,7 @@ c. The appointment of NULS ambassadors is implemented through the proposal. When
 
 d. Ambassadors are required to publicly display their work report summary to the whole community at the end of each month, and show the development and growth of the community as well as their plan for the next month on the forum. The work report should include expenses for that month.
 
-e. The dismissal of an ambassador: Any node can initiate a vote to dismiss an ambassador. The vote will last for a period of 7 days. If the votes in support the dismissal exceeds 50%, then the ambassador will be dismissed. The ambassador who is dismissed cannot participate in the ambassadors’ election again for 3 months.
+e. The dismissal of an ambassador: Any node can initiate a vote to dismiss an ambassador. The vote will last for a period of 15 days. If the votes in support the dismissal exceeds 50%, then the ambassador will be dismissed. The ambassador who is dismissed cannot participate in the ambassadors’ election again for 3 months.
 
 f. Each NULS ambassador will be entrusted with 200,000 NULS tokens from the community fund of NULS Foundation. The elected NULS ambassadors can use 80% of the consensus rewards for community building, and the remaining 20% will returned to the community fund.
 
@@ -68,11 +68,11 @@ j.The ambassador is a community contributor. If you need to initiate other commu
 
 a. Publish the work plan of the next 3 months for public discussion for15 days（Ambassador of last quarter's continuation proposal for public discussion for 7 days ）
 
-Please post on the NULS forum: https://nuls.community/t/community-fund
+Please post on the NULS forum: https://forum.nuls.io/c/governance/nuls-proposals/27
 
 b. Designate a Councilor to initiate a formal proposal and vote for you. The vote will last for a 15-day period, so do your best to swing the votes and campaign!  
 
-c. If you’re elected, create a node and name it (Country+Ambassador). Set the commission rate to 80%. The NULS Foundation will stake 200,000 NULS tokens in your node.
+c. If you’re elected, create a node and name it (Country/Area+Ambassador). Set the commission rate to 80%. The NULS Foundation will stake 200,000 NULS tokens in your node.
 
  
 
@@ -95,7 +95,6 @@ Welcome to the *NULS* community! Let’s work together to create a brighter futu
 #### **If you can deliver more, we have these expectations of you:**
 
 1. Host a local meet-up in your city/country, to meet with members of the NULS community and guide new members;
-
 2. Provide us with any materials we can use to assist in our marketing, such as photos, videos, meet-ups and articles on business cooperation;
 3. Share the story of NULS to the community;
 4. Translate the videos and other contents produced by the team to your native languages and share with people in your country/region;

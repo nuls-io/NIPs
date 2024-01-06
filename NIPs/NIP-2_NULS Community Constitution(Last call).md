@@ -4,7 +4,7 @@
   NIP: 2
   Title: NULS Community Constitution
   Author: Reaper Ran <reaper@nuls.io>
-  Discussions-To: https://nuls.community/d/251-nuls-community-constitution-discussion-draft-nuls-ncg20181207
+  Discussions-To: https://forum.nuls.io/t/nip-2-nuls-community-constitution/59
   Status: Last call
   Type: Process
   Created: 2018-12-28
@@ -22,7 +22,7 @@ NULS community culture: openness, freedom, autonomy, evolution
 
 NULS community philosophy: share, inherit, grow, innovate
 
-**The following rules will be based on the NULS development consensus governance module. The Council members and Ambassadors will be appointed by a vote within the NULS core team before consensus governance module is set in motion.**
+**The following rules will be based on the NULS development consensus governance module. The Councilors and Ambassadors will be appointed by a vote within the NULS core team before consensus governance module is set in motion.**
 
  
 
@@ -34,7 +34,7 @@ December 2018
 
 ## Abstract
 
-NULS community is an organization of a group of people who highly assent to NULS community culture and philosophy and have the same purpose and vision to work for the development of NULS community ecology. NULS community members include the NULS Foundation, Council members, contributors, the open-source technology community - CODE CRAFT COUNCIL (CCC) and other all NULS Holders. 
+NULS community is an organization of a group of people who highly assent to NULS community culture and philosophy and have the same purpose and vision to work for the development of NULS community ecology. NULS community members include the NULS Foundation, Councilors, contributors, the open-source technology community - CODE CRAFT COUNCIL (NTC) and other all NULS Holders. 
 
 
 
@@ -51,12 +51,11 @@ The following is a specification of the NULS Community Constitution.
 
 
 # NULS Community Constitution
-
 ## **I. NULS Community Profile**
 
-NULS is a blockchain infrastructure for customizable services and a global open-source community. The designed technical architecture of NULS consists of a micro-kernel and functional modules. With innovative ideas on reducing the main block chain and decoupling events and services, high modularization on underlying architecture is achieved. The NULS project, following the principles of hot plugging, modularization and parallel expansion, provides smart contracts, multi-chain mechanism and cross-chain consensus to reduce cost of development and use, and to promote the application of blockchain in the commercial field. With the proposal of basic framework containing modular thinking and multi-chain mechanism, NULS upholds the “chain” as its core development philosophy and is striving for building a core product - “Chain Factory” where users can select core function modules as they like to create their own blockchains on the NULS chain network and define their own business logic with little programming, to include smart contracts.
+NULS is a blockchain infrastructure that provides customizable services and is also a global open-source community blockchain project. NULS adopts micro-services to achieve a highly modular underlying architecture, using smart contracts and cross-chain technologies, combined with the ability of ChainBox to quickly build chains, reduce development costs, and accelerate blockchain business application landing.
 
-**NULS community is an organization of a group of people who highly assent to NULS community culture and philosophy and have the same purpose and vision to work for the development of NULS community ecology.** NULS community members include the NULS Foundation, Council members, contributors, the open-source technology community - CODE CRAFT COUNCIL (CCC) and other all NULS Holders. 
+**NULS community is an organization of a group of people who highly assent to NULS community culture and philosophy and have the same purpose and vision to work for the development of NULS community ecology.** NULS community members include the NULS Foundation, Councilors, contributors, the NULS technology community [NTC] and other all NULS Holders. 
 
 
 
@@ -66,9 +65,9 @@ NULS Foundation, short for the NULS FOUNDATION PTE. LTD. (201729333G), is a limi
 
 
 
-### **(I)** **Objectives** **of NULS Foundation**
+### **(I) Objectives of NULS Foundation**
 
-Give rewards to contributors, CCC members and members of other communities according to their contributions with the aim to promote development of community ecology and support the NULS community development, including but not limited to:
+Give rewards to contributors, NTC members and members of other communities according to their contributions with the aim to promote development of community ecology and support the NULS community development, including but not limited to:
 
 1. Code writing
 2. Applications development
@@ -85,40 +84,39 @@ Give rewards to contributors, CCC members and members of other communities accor
 
 ### **(III) Management of NULS Foundation** 
 
-The NULS Foundation shall be managed and utilized based on the principles of fairness, justice and openness with respect to the development needs of the NULS Community ecology. NULS’ fund account is open to the community and subject to supervision of all community members. All proposals of incentives shall be managed under this Constitution and incentives may be given at the back end. The funds in the account shall be managed by the Foundation’s executives in its earlier stage, but then shall be handed over to the community for on-chain management once the governance mechanism is available on the chain.  
-
+The NULS Foundation shall be managed and utilized based on the principles of fairness, justice and openness with respect to the development needs of the NULS Community ecology. NULS’ fund account is open to the community and subject to supervision of all community members. All proposals of incentives shall be managed under this Constitution and incentives may be given at the back end. The funds in the account are managed by the NULS governance platform and the multi-signatures of NULS Councilors.
  
 
-## **III. Council members**
+## **III. NULS Councilors**
 
 
 
-### **(I) Introduction to Council members**
+### **(I) Introduction to Councilors**
 
-As a member organization established under the Regulations on Foundation Management, NULS Community’s Council members shall be responsible for NULS Foundation’s objectives as well as the whole community and will add the roles into NULS self-governance model step by step.
-
-
-
-### **(II) Appointment of Council members**
-
-The Council members, consisting of 11 members, is formed based on a popular vote within the community. The 11 Council members, which may be changed by proposal, shall be composed of 4 technology community developers **(developer council member)** elected based on a ballot participated by all developers; and 7 members elected by ballot within the community **(standing council member)**. The top 4 in ballot within the developer community shall be elected and the remaining members shall be the first 7 in dynamic poll. Equivalently, there will be at least 4 core developers in the Council members. 
+As a member organization established under the NULS Community Constitution, NULS Councilors shall be responsible for NULS Foundation’s objectives as well as the whole community and will add the roles into NULS governance model.
 
 
 
-1. Application. All community members are allowed to run for a position in NULS community’s Council members. The participants only need to meet the following conditions: have at least 50,000 NULS in the application address and accept real-time supervision by the system; provide personal information, as detailed as possible and reserve at least 50,000 NULS in the application address; participants applying for developer council member shall retain at least 20,000 NULS in the application address.
-2. Voting. If the application is approved, all applicants will be ranked by votes from high to low and all NULS Holders can cast a vote. The voting right shall be assigned according to the token ownership accurate to the fourth decimal place. Token and voting right shall be inseparable. Each vote is allowed to select at least 4 developers and 7 Council members.
-3. Appointment. According to votes, the first 7 in the candidate list of Council members and the top 4 in the developers list shall be appointed as the Council members and the addresses of these Council members will be given the permission to put forward a proposal with respect to the system.
-4. Dropping out. If the NULS holdings in candidate’s address are less than 100,000, the candidate is deemed to drop out of the campaign and all the votes will be cleared without his / her presence on the candidate list. If the candidate exits the race of his / her own accord, all his / her votes will be also cleared without his / her presence on the candidate list. After dropping out, a new application shall be made if the application address wants to run for Council member again.
+### **(II) Appointment of Councilors**
+
+The NULS Councilors, consisting of 11 members, is formed based on a popular vote within the community. The 11 Councilors, which may be changed by proposal, shall be composed of 4 NTC developers **(developer councilors)** elected based on a ballot participated by all developers; and 7 members elected by ballot within the community **(standing Councilor)**. The top 4 in ballot within the developer community shall be elected and the remaining members shall be the first 7 in dynamic poll. Equivalently, there will be at least 4 developers in the Councilors. 
 
 
 
-### **(III) Rights and responsibilities of Council member**
+1. Application. All community members are allowed to run for a position in NULS community’s Councilors. The participants only need to meet the following conditions: have at least 50,000 NULS in the application address and accept real-time supervision by the system; provide personal information, as detailed as possible and reserve at least 50,000 NULS in the application address; participants applying for developer Councilor shall retain at least 20,000 NULS in the application address.
+3. Voting. If the application is approved, all applicants will be ranked by votes from high to low and all NULS Holders can cast a vote. The voting right shall be assigned according to the token ownership accurate to the fourth decimal place. Token and voting right shall be inseparable. Each vote is allowed to select at least 4 developers and 7 Councilors.
+4. Appointment. According to votes, the first 7 in the candidate list of Councilors and the top 4 in the developers list shall be appointed as the Councilors and the addresses of these Councilors will be given the permission to put forward a proposal with respect to the system.
+5. Dropping out. If the NULS holdings in candidate’s address are less than 50,000 NULS, the candidate is deemed to drop out of the campaign and all the votes will be cleared without his / her presence on the candidate list. If the candidate exits the race of his / her own accord, all his / her votes will be also cleared without his / her presence on the candidate list. After dropping out, a new application shall be made if the application address wants to run for Councilors again.
 
-1. Proposal. Council member will be given the permission to put forward a proposal and the proposal will be charged 0.1 NULS. In addition, the proposal may be modified later. Proposal includes the following types: 
+
+
+### **(III) Rights and responsibilities of Councilor**
+
+1. Proposal. Councilor will be given the permission to put forward a proposal and the proposal will be charged 0.1 NULS. In addition, the proposal may be modified later. Proposal includes the following types: 
 
    (1) Put forward a proposal to create the role of contributor and delete the role of contributor. The voting period will last 15 days and if the approval rating reaches 70%, the proposal will be executed; otherwise it will be invalid.
 
-* Role for campaign. The Council member shall put forward a proposal to create a role for campaign and provide fixed incentives or delegation. This role works in a similar way with the Council membership. One or more persons may be elected by ballot within the community to take on the role.  
+* Role for campaign. The Councilor shall put forward a proposal to create a role for campaign and provide fixed incentives or delegation. This role works in a similar way with the Councilorship. One or more persons may be elected by ballot within the community to take on the role.  
 
 * Permanent role. Put forward a proposal to create a role to give incentives or delegate. The community may vote for or against the assumption of the role.
 
@@ -130,24 +128,24 @@ The Council members, consisting of 11 members, is formed based on a popular vote
 
 * Adjustment of contract call commission.
 
-* Adjustment of Council member proposal commission.
+* Adjustment of Councilor proposal commission.
 
 * Adjustment of adjustable system parameter in other systems.
 
   (3) Put forward a proposal to perform Foundation account operations. The voting period will last 15 days and that of the contributor role proposal will last 5 days; if the approval rating reaches 70%, the proposal will be executed; otherwise it will be invalid.
 
-* Delegation. For example, a Council member puts forward a proposal to delegate the node of an important role, the node rewards will be used to support the work to be performed by the role.
+* Delegation. For example, a Councilor puts forward a proposal to delegate the node of an important role, the node rewards will be used to support the work to be performed by the role.
 
-* Fund transfer. For example, a Council member puts forward a proposal to transfer funds to financially support a community activity. The initial upper limit of transfer shall be 10,000 NULS and this parameter can be modified. 
+* Fund transfer. For example, a Councilor puts forward a proposal to transfer funds to financially support a community activity. The initial upper limit of transfer shall be 10,000 NULS and this parameter can be modified. 
 
-* Node creation. For example, a Council member puts forward a proposal to create nodes with respect to developers and carry out a certain amount of delegation; the node rewards will be used to support the work to be performed by the developer.
+* Node creation. For example, a Councilor puts forward a proposal to create nodes with respect to developers and carry out a certain amount of delegation; the node rewards will be used to support the work to be performed by the developer.
 
-* Smart contract call. It aims to perform NRC20 token operation by calling the smart contract. For example, the Council member shall call the smart contract with respect to the CCC. 
+* Smart contract call. It aims to perform NRC20 token operation by calling the smart contract. For example, the Councilor shall call the smart contract with respect to the NTC. 
 
-2. Start a vote. Council member doesn’t need to pay a deposit if starting a vote and may initiate a vote of another type.
-3. Responsibilities of Council member.
+2. Start a vote. Councilor doesn’t need to pay a deposit if starting a vote and may initiate a vote of another type.
+3. Responsibilities of Councilor.
 
-* Council member shall communicate with the community in good time.
+* Councilor shall communicate with the community in good time.
 
 * Act in strict accordance with the community’s Constitution.
 
@@ -161,15 +159,15 @@ The Council members, consisting of 11 members, is formed based on a popular vote
 
  
 
-## **IV. CODE CRAFT COUNCIL (CCC)**
+## **IV. NULS technology community (NTC)**
 
-### **(I) Introduction to the CCC**
+### **(I) Introduction to the NTC**
 
-The CCC consists of core developers from the global NULS Community and those who are interested in blockchain technology and highly agree with the NULS philosophy. They will take part in underlying architecture development of the NULS project and create the technical ecology together with the core development team.
+The NTC consists of core developers from the global NULS Community and those who are interested in blockchain technology and highly agree with the NULS philosophy. They will take part in underlying architecture development of the NULS project and create the technical ecology together.
 
 
 
-### **(II) Philosophy of the CCC**
+### **(II) Philosophy of the NTC**
 
 We stick to the following philosophy in the technology community: 
 
@@ -194,30 +192,30 @@ We stick to the following philosophy in the technology community:
 
    
 
-### **(III) Appointment of the CCC member**
+### **(III) Appointment of the NTC member**
 
-The joining of every CCC member shall be put to vote. Before that they need to present output worthy and recognized to include a period of adaptation (1 or 2 months generally).
+The joining of every NTC member shall be put to vote. Before that they need to present output worthy and recognized to include a period of adaptation (1 or 2 months generally).
 
-The process of joining CCC is:
+The process of joining NTC is:
 
-1. Have a preliminary communication with a CCC developer to briefly introduce his / her own experience and skilled programming language.
+1. Have a preliminary communication with a NTC developer to briefly introduce his / her own experience and skilled programming language.
 2. Select tasks they are interested in and capable of. We will let developers join in each development taskforce to work with each other.
 3. Leader of the taskforce will provide necessary documentary information to help developers start in an efficient, expedient manner. We also hope developers can maintain effective communication with one another for smooth, ease of work. About 1 month later, the developer who remains consistent with the work and produces a high-quality product, can file a node application with the technology community.
-4. After intense review by the technology community and core team, the developer will be one of the CCC if the application is approved. 
+4. After intense review by the technology community and core team, the developer will be one of the NTC if the application is approved. 
 
 ### 
 
-### **(IV) Rights and responsibilities of the CCC member**
+### **(IV) Rights and responsibilities of the NTC member**
 
 1. NULS hopes to build a module repository covering 80% of underlying technologies in the blockchain field. We aim to lower the entry threshold of blockchain industry by increasing the modules in the repository. In doing so, the enterprises will undertake a much lower chain issuing cost and users will find it easier to use chains. We believe that only in this way can blockchain technology become a part of our daily life. 
 
 2. The technology community will work with the core team to build a brand new architecture – NULS 2.0, which will enable NULS modules to work independently and the low-coupling module shall interact via the interface defined by standard. Then, developers (regardless of development language) can use adept programming languages as long as they comply with NULS module standard to develop the functional modules they need to enrich the module repository.
 
-3. After that, NULS will launch Chain Factory, a chain creation tool based on the module repository. If the developer is very clear about parameters of the blockchain developed by himself / herself, like the consensus mechanism, block size and block producing time, even if he / she doesn’t have much understanding of the underlying technology, he / she can own a public chain within several minutes in 4 simple steps (of course consortium blockchain and private blockchain are available). The public blockchain development time, which is usually six months to one year, is greatly reduced.
+3. After that, NULS will launch ChainBox, a chain creation tool based on the module repository. If the developer is very clear about parameters of the blockchain developed by himself / herself, like the consensus mechanism, block size and block producing time, even if he / she doesn’t have much understanding of the underlying technology, he / she can own a public chain within several minutes in 4 simple steps (of course consortium blockchain and private blockchain are available). The public blockchain development time, which is usually six months to one year, is greatly reduced.
 
 4. Technology community will take part in all of the work mentioned above. You can bring forward any suggestions and comments to our plans regarding the technology community.
 
-5. The CCC members, the same as the core team members, shall have the right to know, participate in, assent or object to project progress.
+5. The NTC members, the same as the core team members, shall have the right to know, participate in, assent or object to project progress.
 
    
 
@@ -241,13 +239,13 @@ Permanent contributor will be deemed a post in the community available for peopl
 
 ### **(I) With respect to contributor**
 
-Where the Foundation account operation is performed based on the approved proposal of a contributor role in accordance with the established requirements, the Council members shall put forward a proposal to start a vote. The voting period will last 7 days and if the approval rating reaches 70%, the proposal will be executed.
+Where the Foundation account operation is performed based on the approved proposal of a contributor role in accordance with the established requirements, the Councilors shall put forward a proposal to start a vote. The voting period will last 7 days and if the approval rating reaches 70%, the proposal will be executed.
 
 
 
 ### **(II) With respect to other transaction funds**
 
-The Council members shall put forward a proposal to apply for other budget items. According to the proposal, The voting period will last 15 days and if the approval rating reaches 70%, the proposal will be executed as planned.
+The Councilors shall put forward a proposal to apply for other budget items. According to the proposal, The voting period will last 15 days and if the approval rating reaches 70%, the proposal will be executed as planned.
 
 
 
@@ -255,7 +253,7 @@ The Council members shall put forward a proposal to apply for other budget items
 
 ### **(I) Start a vote**
 
-1. The Council member shall start a vote and only the transaction fee is required.
+1. The Councilor shall start a vote and only the transaction fee is required.
 
 2. Ordinary members shall cast a vote. Deposit (100 NULS now) + transaction fee.
 
@@ -277,8 +275,7 @@ The Council members shall put forward a proposal to apply for other budget items
 
 We welcome all of your suggestions and comments on this Constitution. Please contribute your suggestions to the following URLs:
 
-NULS community website: [https://nuls.community](https://nuls.community/)
+NULS community website: https://forum.nuls.io/
 
-Feedback post: [https://nuls.community/d/132-we-need-your-suggestions](https://nuls.community/d/132-we-need-your-suggestions)
-
+Feedback post: https://forum.nuls.io/t/nip-2-nuls-community-constitution/59
  
